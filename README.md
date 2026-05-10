@@ -2,6 +2,8 @@
 
 Manual QA work on **Simple Staffing**, a workforce management and on-demand staffing platform built for an **Atlanta-based client** at **Right Brain Solution Ltd**.
 
+**Engagement:** February 2023 – January 2024 (~11 months)
+
 > The product is proprietary client work. This repo is a public summary of the QA scope, tools, and methodology I followed.
 
 ---
@@ -32,7 +34,7 @@ Simple Staffing connects **clients** who need short-term workers with **candidat
 
 ## My Role
 
-**Manual QA Tester** — owned the testing of every release across web and mobile for the duration of the engagement (~6–12 months), including post-launch support directly with the client.
+**Manual QA Tester** — owned the testing of every release across web and mobile from **February 2023 to January 2024**, including post-launch support directly with the client.
 
 ### What I covered
 - **Web** — client and admin portals across major browsers
