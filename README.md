@@ -38,14 +38,19 @@ Simple Staffing connects **clients** who need short-term workers with **candidat
 
 ## My Role
 
-**Manual QA Tester** — owned the testing of every release across web and mobile from **February 2023 to January 2024**, including post-launch support directly with the client.
+**Manual QA Tester** — went beyond pure testing and acted as a bridge between the **client**, the **developers**, and the **end product** from **February 2023 to January 2024**.
 
 ### What I covered
+- **Requirements gathering** — held discovery calls and follow-up conversations directly with the Atlanta client to understand what they actually wanted, surfaced gaps and edge cases the client hadn't thought through
+- **Rough designs & wireframes** — translated client requirements into rough screen designs and flow sketches before development started, so the team had a concrete reference to build against
+- **Acceptance criteria for developers** — wrote out clear conditions, rules, and edge cases for each feature so developers knew exactly what "done" looked like
+- **Functional QA** — tested every release across web and mobile against those criteria
+- **UX improvements through testing** — flagged usability issues uncovered during testing, proposed UX fixes, and worked with the team to update flows that confused real users
 - **Web** — client and admin portals across major browsers
 - **Android & iOS apps** — both client and candidate flows, GPS-based timer, push notifications, payments
 - **Cross-platform consistency** — making sure web and mobile stayed in sync
 - **Payment & payroll** — invoice generation, payroll runs, payment gateway flows
-- **Post-delivery support** — communicated directly with the Atlanta client, gathered requirements, reproduced reported issues, verified fixes, and signed off on hotfixes
+- **Post-delivery support** — reproduced client-reported issues, gathered new requirements, verified fixes, and signed off on hotfixes
 
 ---
 
