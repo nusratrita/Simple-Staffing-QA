@@ -14,11 +14,11 @@ Simple Staffing connects **clients** who need short-term workers with **candidat
 
 ### Platforms
 - **Web** — full client + admin experience
-- **Mobile (Android & iOS)** — candidate-facing app for browsing, applying, and clocking in
+- **Mobile (Android & iOS)** — used by **both clients and candidates**: clients manage jobs and track work on the go, candidates browse, apply, and clock in/out
 
 ### User Roles
-- **Client** — posts jobs (date, time, hourly rate), reviews applications, hires candidates, monitors live work, approves payments
-- **Candidate** — browses jobs, applies, starts/stops the shift timer from anywhere on mobile, gets paid
+- **Client** (web + mobile) — posts jobs (date, time, hourly rate), reviews applications, hires candidates, monitors live work, approves payments
+- **Candidate** (mobile) — browses jobs, applies, starts/stops the shift timer from anywhere, gets paid
 - **Admin** — oversees all clients, candidates, jobs, invoices, and payroll from a central dashboard
 
 ### Key Features Tested
@@ -38,7 +38,7 @@ Simple Staffing connects **clients** who need short-term workers with **candidat
 
 ### What I covered
 - **Web** — client and admin portals across major browsers
-- **Android & iOS apps** — candidate flows, GPS-based timer, push notifications, payments
+- **Android & iOS apps** — both client and candidate flows, GPS-based timer, push notifications, payments
 - **Cross-platform consistency** — making sure web and mobile stayed in sync
 - **Payment & payroll** — invoice generation, payroll runs, payment gateway flows
 - **Post-delivery support** — communicated directly with the Atlanta client, gathered requirements, reproduced reported issues, verified fixes, and signed off on hotfixes
