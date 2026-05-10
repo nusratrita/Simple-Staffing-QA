@@ -16,6 +16,10 @@ Simple Staffing connects **clients** who need short-term workers with **candidat
 - **Web** — full client + admin experience
 - **Mobile (Android & iOS)** — used by **both clients and candidates**: clients manage jobs and track work on the go, candidates browse, apply, and clock in/out
 
+### Live Links
+- **Google Play Store:** [Simple Staffing on Play Store](https://play.google.com/store/apps/details?id=com.simplestaffing.dev)
+- **Apple App Store:** *Internal/private build — not publicly listed*
+
 ### User Roles
 - **Client** (web + mobile) — posts jobs (date, time, hourly rate), reviews applications, hires candidates, monitors live work, approves payments
 - **Candidate** (mobile) — browses jobs, applies, starts/stops the shift timer from anywhere, gets paid
